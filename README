@@ -1,0 +1,12 @@
+TWITTER
+
+Twitter OAuth Integration (for KohanaPHP 2.*)
+
+Just create your twitter application, modify the kohana
+twitter config entries and forward your users to 
+/twitter/connect !
+
+Based on https://github.com/abraham/twitteroauth
+
+To install, just checkout this in your modules folder
+and rename to twitter.
